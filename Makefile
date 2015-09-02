@@ -5,7 +5,7 @@ CONFIG ?= test/test.config
 DEPS = jiffy trails
 
 dep_jiffy  = git https://github.com/davisp/jiffy.git        0.14.2
-dep_trails = git https://github.com/inaka/cowboy-trails.git 0.0.2
+dep_trails = git https://github.com/ptuckey/cowboy-trails.git 9d5e391f4cc886ba3bd7d5d4973a950f0aba088d
 
 SHELL_DEPS = sync
 
